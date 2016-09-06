@@ -1,1 +1,6 @@
 c:\users\demar\documents\visual studio 2012\Projects\exportExcel\exportExcel\bin\Debug\exportExcel.exe.config
+c:\users\demar\documents\visual studio 2012\Projects\exportExcel\exportExcel\bin\Debug\exportExcel.exe
+c:\users\demar\documents\visual studio 2012\Projects\exportExcel\exportExcel\bin\Debug\exportExcel.pdb
+c:\users\demar\documents\visual studio 2012\Projects\exportExcel\exportExcel\obj\Debug\exportExcel.csprojResolveAssemblyReference.cache
+c:\users\demar\documents\visual studio 2012\Projects\exportExcel\exportExcel\obj\Debug\exportExcel.exe
+c:\users\demar\documents\visual studio 2012\Projects\exportExcel\exportExcel\obj\Debug\exportExcel.pdb
